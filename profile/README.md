@@ -83,6 +83,9 @@
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- | --- |
 | near-api-js | API tool for frontend & backend JS libraries |[near/near-api-js](https://github.com/near/near-api-js)|[![Latest Release](https://img.shields.io/github/v/release/near/near-api-js?label=)](https://github.com/near/near-api-js/releases)
+| fastnear | A low-latency API for wallets and explorers | [fastnear/fastnear-api-server-rs](https://github.com/fastnear/fastnear-api-server-rs)| ➖
+| QueryApi | Build custom indexers and query with GraphQL endpoints|[near/queryapi](https://github.com/near/queryapi)|➖
+
 
 ### 📝 Smart Contracts
 
@@ -104,6 +107,7 @@
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- | --- |
 | QueryApi | Build custom indexers and query with GraphQL endpoints|[near/queryapi](https://github.com/near/queryapi)|➖
+| fastnear | A low-latency API for wallets and explorers | [fastnear/fastnear-api-server-rs](https://github.com/fastnear/fastnear-api-server-rs)| ➖
 | near-lake-indexer | Built on [NEAR Indexer](https://github.com/near/nearcore/tree/master/chain/indexer) that stores JSON in AWS S3 bucket  |[near/near-lake-indexer](https://github.com/near/near-lake-indexer)|[![Latest Release](https://img.shields.io/github/v/release/near/near-lake-indexer?label=)](https://github.com/near/near-lake-indexer/releases)
 | near-lake-framework-rs | Stream blocks from NEAR Lake into your server |[near/near-lake-framework-rs](https://github.com/near/near-lake-framework-rs)|[![Latest Release](https://img.shields.io/github/v/release/near/near-lake-framework-rs?label=)](https://github.com/near/near-lake-framework-rs/releases)
 | near-lake-framework-js | Stream blocks from NEAR Lake into your server |[near/near-lake-framework-js](https://github.com/near/near-lake-framework-js)| ➖
