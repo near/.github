@@ -36,7 +36,7 @@
 
 ### 🚀 Decentralized Frontend Stack
 
-> Create decentralized frontend components by storing it's source code on the blockchain 🤯.
+> Create decentralized frontend components by storing its source code on the blockchain 🤯.
 
 | Name      | Description | Repo | Latest Release |
 | ----------- | ----------- | --- |--|
