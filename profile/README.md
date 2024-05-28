@@ -71,6 +71,7 @@
 | create-near-app | Easy fullstack dApp deployment tool              | [near/create-near-app](https://github.com/near/create-near-app) | [![Latest Release](https://img.shields.io/github/v/release/near/create-near-app?label=)](https://github.com/near/create-near-app/releases) |
 | BOS VSCode Ext. | VSCode extension for building B.O.S. components  | [near/near-vscode](https://github.com/near/near-vscode)         | [![Latest Release](https://img.shields.io/github/v/release/near/near-vscode?label=)](https://github.com/near/near-vscode/releases)         |
 | BOS Loader      | Simplifying multiple component local development | [near/bos-loader](https://github.com/near/bos-loader)           | [![Latest Release](https://img.shields.io/github/v/release/near/bos-loader?label=)](https://github.com/near/bos-loader/releases)           |
+| Além            | A web3 JavaScript / TypeScript library to create web3 apps for Near BOS. | [wpdas/alem](https://github.com/wpdas/alem)           | [![Latest Release](https://img.shields.io/github/v/release/wpdas/alem?label=)](https://github.com/wpdas/alem/releases)           |
 
 ### 💻 CLI
 
