@@ -97,10 +97,11 @@
 ### 🔌 API
 
 | Name        | Description                                            | Repo                                                                                  | Latest Release                                                                                                                     |
-|-------------|--------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| near-api-js | API tool for frontend & backend JS libraries           | [near/near-api-js](https://github.com/near/near-api-js)                               | [![Latest Release](https://img.shields.io/github/v/release/near/near-api-js?label=)](https://github.com/near/near-api-js/releases) |
-| fastnear    | A low-latency API for wallets and explorers            | [fastnear/fastnear-api-server-rs](https://github.com/fastnear/fastnear-api-server-rs) | ➖                                                                                                                                  |
-| QueryApi    | Build custom indexers and query with GraphQL endpoints | [near/queryapi](https://github.com/near/queryapi)                                     | ➖                                                                                                                                  |
+|------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| near-jsonrpc-client-rs | API for RS projects                                    | [near-jsonrpc-client-rs](https://github.com/near/near-jsonrpc-client-rs)              | ➖       
+| near-api-js            | API tool for frontend & backend JS libraries           | [near/near-api-js](https://github.com/near/near-api-js)                               | [![Latest Release](https://img.shields.io/github/v/release/near/near-api-js?label=)](https://github.com/near/near-api-js/releases) |
+| fastnear               | A low-latency API for wallets and explorers            | [fastnear/fastnear-api-server-rs](https://github.com/fastnear/fastnear-api-server-rs) | ➖                                                                                                                                  |
+| QueryApi               | Build custom indexers and query with GraphQL endpoints | [near/queryapi](https://github.com/near/queryapi)                                     | ➖                                                                                                                                  |
 
 
 ### 📝 Smart Contracts
