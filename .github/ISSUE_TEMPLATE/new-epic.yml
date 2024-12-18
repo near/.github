@@ -9,10 +9,10 @@ body:
       value: "🔷 New Epic"
 
   - type: textarea
-    id: overview
+    id: background
     attributes:
-      label: "Epic Overview"
-      placeholder: "What is this epic about? What problem does it solve?"
+      label: "Background"
+      placeholder: "Brief description of what this epic of work will accomplish. What is the goal and why should this be done?"
     validations:
       required: true
 
