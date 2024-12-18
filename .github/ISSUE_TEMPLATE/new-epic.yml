@@ -1,0 +1,66 @@
+# Epic Template
+name: "🔷 New Epic"
+description: Create a new epic representing a large body of work that can be broken down into multiple tasks.
+title: "🔷 [Epic] "
+labels: ["epic"]
+body:
+  - type: markdown
+    attributes:
+      value: "🔷 New Epic"
+
+  - type: textarea
+    id: overview
+    attributes:
+      label: "Epic Overview"
+      placeholder: "What is this epic about? What problem does it solve?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: "Scope"
+      placeholder: "What is included in this epic? What are the main components or features?"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: "Status"
+      options:
+        - "📝 Planning"
+        - "🚀 Ready for Development"
+        - "⏳ In Progress"
+        - "✅ Completed"
+    validations:
+      required: true
+
+  - type: textarea
+    id: related-initiative
+    attributes:
+      label: "Related Initiative"
+      placeholder: "Which strategic initiative does this epic support?"
+    validations:
+      required: false
+
+  - type: textarea
+    id: related-tasks
+    attributes:
+      label: "Related Tasks"
+      placeholder: "Link related tasks here"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priority"
+      options:
+        - "🔴 P0 : Critical"
+        - "🟠 P1 : High"
+        - "🟡 P2 : Medium"
+        - "🟢 P3 : Normal"
+        - "⚪ P4 : Low"
+    validations:
+      required: true
