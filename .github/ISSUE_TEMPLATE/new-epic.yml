@@ -2,7 +2,9 @@
 name: "🔷 New Epic"
 description: Create a new epic representing a large body of work that can be broken down into multiple tasks.
 title: "🔷 [Epic] "
-labels: ["epic"]
+labels: epic
+assignees: ''
+---
 body:
   - type: markdown
     attributes:
