@@ -4,7 +4,7 @@
 [![CALENDAR](https://img.shields.io/badge/CALENDAR-F9F502)](https://bit.ly/near-dev-calendar)
 [![DEV SUPPORT](https://img.shields.io/badge/DEV_SUPPORT-BE0303)](https://t.me/addlist/VyVjNaP190JlOGMx)
 [![NEWSLETTER](https://img.shields.io/badge/NEWSLETTER-0087E5)](https://newsletter.neardevhub.org/)
-[![FEEDBACK](https://img.shields.io/badge/FEEDBACK-purple)](https://github.com/orgs/near/discussions/new?category=dev-feedback)
+[![FEEDBACK](https://img.shields.io/badge/FEEDBACK-purple)](https://bit.ly/near-dev-feedback)
 
 > NEAR is dedicated to providing the best developer experience possible for building an open web. This mission is next to impossible to achieve without feedback and contributions from **people like you**. 🫵
 >
@@ -53,9 +53,10 @@
 | Name                         | Description                                             | Repo                                                                                | Latest Release                                                                                                                           |
 |------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | **👉 GATEWAY**               |                                                         |                                                                                     |                                                                                                                                          |
-| near-discovery               | near.org Gateway                                        | [near/near-discovery](https://github.com/near/near-discovery)                       | [![Latest Release](https://img.shields.io/github/v/release/near/near-discovery?label=)](https://github.com/near/near-discovery/releases) |
+| near-discovery               | dev.near.org Gateway                                        | [near/near-discovery](https://github.com/near/near-discovery)                       | [![Latest Release](https://img.shields.io/github/v/release/near/near-discovery?label=)](https://github.com/near/near-discovery/releases) |
 | near.social                  | near.social Gateway                                     | [NearSocial/viewer](https://github.com/NearSocial/viewer)                           |                                                                                                                                          |
-| near-discovery-components    | Core components / primitives for near.org               | [near/near-discovery-components](https://github.com/near/near-discovery-components) |                                                                                                                                          |
+| near-discovery-components    | Core components / primitives for dev.near.org               | [near/near-discovery-components](https://github.com/near/near-discovery-components) |    
+| chain-hosted-ui              | Decentralized hosting of any [Vite supported](https://vitejs.dev/guide/#trying-vite-online) UI framework directly on-chain              | [near/chain-hosted-ui](https://github.com/near/chain-hosted-ui) |   |
 | **👉 EXECUTION ENVIRONMENT** |                                                         |                                                                                     |                                                                                                                                          |
 | VM                           | B.O.S. Virtual Machine                                  | [nearsocial/VM](https://github.com/NearSocial/VM)                                   | [![Latest Release](https://img.shields.io/github/v/release/nearsocial/vm?label=)](https://github.com/nearsocial/vm/releases)             |
 | BWE                          | B.O.S. Web Engine ***(WIP replacement for VM)***        | [near/bos-web-engine](https://github.com/near/bos-web-engine)                       |                                                                                                                                          |
@@ -71,6 +72,8 @@
 | create-near-app | Easy fullstack dApp deployment tool              | [near/create-near-app](https://github.com/near/create-near-app) | [![Latest Release](https://img.shields.io/github/v/release/near/create-near-app?label=)](https://github.com/near/create-near-app/releases) |
 | BOS VSCode Ext. | VSCode extension for building B.O.S. components  | [near/near-vscode](https://github.com/near/near-vscode)         | [![Latest Release](https://img.shields.io/github/v/release/near/near-vscode?label=)](https://github.com/near/near-vscode/releases)         |
 | BOS Loader      | Simplifying multiple component local development | [near/bos-loader](https://github.com/near/bos-loader)           | [![Latest Release](https://img.shields.io/github/v/release/near/bos-loader?label=)](https://github.com/near/bos-loader/releases)           |
+| Além            | A web3 JavaScript / TypeScript library to create web3 apps for Near BOS. | [wpdas/alem](https://github.com/wpdas/alem)           | [![Latest Release](https://img.shields.io/github/v/release/wpdas/alem?label=)](https://github.com/wpdas/alem/releases)           |
+| bos-workspace | A comprehensive toolset for component and gateway development | [nearbuilders/bos-workspace](https://github.com/nearbuilders/bos-workspace) | [![Latest Release](https://img.shields.io/github/v/release/nearbuilders/bos-workspace?label=)](https://github.com/nearbuilders/bos-workspace/releases)
 
 ### 💻 CLI
 
@@ -94,10 +97,11 @@
 ### 🔌 API
 
 | Name        | Description                                            | Repo                                                                                  | Latest Release                                                                                                                     |
-|-------------|--------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| near-api-js | API tool for frontend & backend JS libraries           | [near/near-api-js](https://github.com/near/near-api-js)                               | [![Latest Release](https://img.shields.io/github/v/release/near/near-api-js?label=)](https://github.com/near/near-api-js/releases) |
-| fastnear    | A low-latency API for wallets and explorers            | [fastnear/fastnear-api-server-rs](https://github.com/fastnear/fastnear-api-server-rs) | ➖                                                                                                                                  |
-| QueryApi    | Build custom indexers and query with GraphQL endpoints | [near/queryapi](https://github.com/near/queryapi)                                     | ➖                                                                                                                                  |
+|------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| near-jsonrpc-client-rs | API for RS projects                                    | [near-jsonrpc-client-rs](https://github.com/near/near-jsonrpc-client-rs)              | ➖       
+| near-api-js            | API tool for frontend & backend JS libraries           | [near/near-api-js](https://github.com/near/near-api-js)                               | [![Latest Release](https://img.shields.io/github/v/release/near/near-api-js?label=)](https://github.com/near/near-api-js/releases) |
+| fastnear               | A low-latency API for wallets and explorers            | [fastnear/fastnear-api-server-rs](https://github.com/fastnear/fastnear-api-server-rs) | ➖                                                                                                                                  |
+| QueryApi               | Build custom indexers and query with GraphQL endpoints | [near/queryapi](https://github.com/near/queryapi)                                     | ➖                                                                                                                                  |
 
 
 ### 📝 Smart Contracts
