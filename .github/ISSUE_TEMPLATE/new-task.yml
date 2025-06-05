@@ -37,27 +37,3 @@ body:
     attributes:
       label: "Resources & Additional Notes"
       placeholder: "Any relevant resources, extra context, links, or screenshots?"
-
-  - type: dropdown
-    id: priority
-    attributes:
-      label: "Priority"
-      options:
-        - "🔴 P0 : Critical"
-        - "🟠 P1 : High"
-        - "🟡 P2 : Medium"
-        - "🟢 P3 : Normal"
-        - "⚪ P4 : Low"
-    validations:
-      required: true
-
-  - type: markdown
-    attributes:
-      value: |
-        | Priority | Name | Description |
-        |----------|------|-------------|
-        | 🔴 P0 | CRITICAL | Urgent, blocking issue affecting multiple teams |
-        | 🟠 P1 | HIGH | Very important, needs attention ASAP |
-        | 🟡 P2 | MEDIUM | High impact, should be done soon |
-        | 🟢 P3 | NORMAL | Should be done, but not urgent |
-        | ⚪ P4 | LOW | Nice to have |

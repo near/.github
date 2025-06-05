@@ -39,16 +39,3 @@ body:
       placeholder: "Link related tasks here"
     validations:
       required: false
-
-  - type: dropdown
-    id: priority
-    attributes:
-      label: "Priority"
-      options:
-        - "🔴 P0 : Critical"
-        - "🟠 P1 : High"
-        - "🟡 P2 : Medium"
-        - "🟢 P3 : Normal"
-        - "⚪ P4 : Low"
-    validations:
-      required: true
