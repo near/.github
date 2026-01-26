@@ -119,6 +119,7 @@
 |---------------|---------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | workspaces-js | Testing sandbox written in JS   | [near/workspaces-js](https://github.com/near/workspaces-js) | [![Latest Release](https://img.shields.io/github/v/release/near/near-workspaces-js?label=)](https://github.com/near/near-workspaces-js/releases) |
 | workspaces-rs | Testing sandbox written in Rust | [near/workspaces-rs](https://github.com/near/workspaces-rs) | [![Latest Release](https://img.shields.io/github/v/release/near/near-workspaces-rs?label=)](https://github.com/near/near-workspaces-rs/releases) |
+| sandbox-rs | A newer testing sandbox written in Rust | [near/sandbox-rs](https://github.com/near/near-sandbox-rs/) | [![Latest Release](https://img.shields.io/github/v/release/near/near-sandbox-rs?label=)](https://github.com/near/near-sandbox-rs/releases) |
 
 ### 🔎 Blockchain Data Indexing
 
