@@ -18,11 +18,11 @@ We will provide security-related information, such as a threat model, considerat
 
 ## Bug Bounty Program
 
-NEAR uses HackenProof as the primary channel for reporting defects and vulnerabilities. To report a vulnerability that you believe you have discovered in the NEAR Platform, NEAR Protocol, or NEAR Intent, please use one of the following programs:
+NEAR uses HackenProof as the primary channel for reporting defects and vulnerabilities. To report a vulnerability that you believe you have discovered in the NEAR Platform, NEAR Protocol, or NEAR Intents, please use one of the following programs:
 - NEAR Protocol: https://hackenproof.com/near/near-protocol
 - NEAR Web: https://hackenproof.com/programs/near-web
 - NEAR Smart Contract: https://hackenproof.com/programs/near-smart-contracts-1
-- NEAR Intent
+- NEAR Intents
     - Smart Contract: https://hackenproof.com/programs/near-intents-smart-contracts
     - Bridges: https://hackenproof.com/programs/near-intents-bridges
     - SDK: https://hackenproof.com/programs/near-intents-sdk
