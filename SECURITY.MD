@@ -2,23 +2,30 @@
 
 NEAR values the independent security research community and believes that responsible disclosure of security vulnerabilities helps us ensure the security and privacy of all our users.
 
-Please do NOT raise a GitHub Issue to report a security vulnerability. If you believe you have found a security vulnerability, please submit a report to security@near.org, preferably with a proof of concept. 
+Please do NOT open a GitHub Issue to report a security vulnerability. If you believe you have found a security vulnerability, please submit a report via HackenProof, including a proof of concept and a suggested fix.
 
 We ask that you do not use other channels or contact project contributors directly.
 
-Non-vulnerability-related security issues, such as new ideas for security features, are welcome on GitHub Issues.
+Security-related topics that are not vulnerabilities, such as new ideas for security features, are welcome on GitHub Issues.
 
-## Security Updates, Alerts and Bulletins
-Security updates will be released on a regular cadence.  Security updates are released on the Tuesday closest to the 17th day of January, April, July, and October. A pre-release announcement will be published on the Thursday preceding each release. 
+## Security Updates and Alerts
+
+Security updates will be released on a regular cadence. Each repository maintains its own cadence for updates and announcements, so please consult the README or release notes of each repository.
 
 ## Security-Related Information
-We will provide security-related information such as a threat model, considerations for secure use, or any known security issues in our documentation. Please note that labs and sample code are intended to demonstrate a concept and may need to be sufficiently hardened for production use.
 
-## BugBounty Program
-NEAR uses HackenProof as a conduit for reporting defects and vulnerabilities as well.  To report a vulnerability that you believe you have discovered in the Near or Pagoda platform, please use one of the following programs to report it:
-- NEAR Protocol:  (https://hackenproof.com/near/near-protocol)
-- NEAR Web (Medium):  (https://hackenproof.com/near/near-web-medium)j
-- NEAR Smart Contract (Medium):  (https://hackenproof.com/near/near-smart-contract-medium)
-- NEAR Smart Contract (High):  (https://hackenproof.com/near/near-smart-contract-high)
-- NEAR Smart Contract (Critical):  (https://hackenproof.com/near/near-smart-contracts-critical)
-- NEAR Foundation Web (Low):  (https://hackenproof.com/near/near-foundation-web-low)
+We will provide security-related information, such as a threat model, considerations for secure use, or any known security issues, in our documentation. Please note that labs and sample code are intended to demonstrate a concept and may need to be hardened further before production use.
+
+## Bug Bounty Program
+
+NEAR uses HackenProof as the primary channel for reporting defects and vulnerabilities. To report a vulnerability that you believe you have discovered in the NEAR Platform, NEAR Protocol, or NEAR Intents, please use one of the following programs:
+- NEAR Protocol: https://hackenproof.com/near/near-protocol
+- NEAR Web: https://hackenproof.com/programs/near-web
+- NEAR Smart Contract: https://hackenproof.com/programs/near-smart-contracts-1
+- NEAR Intents
+    - Smart Contract: https://hackenproof.com/programs/near-intents-smart-contracts
+    - Bridges: https://hackenproof.com/programs/near-intents-bridges
+    - SDK: https://hackenproof.com/programs/near-intents-sdk
+- NEAR Foundation Web (Low): https://hackenproof.com/near/near-foundation-web-low
+
+If you cannot submit your report via HackenProof, please let us know the reason via security@near.org or security@nearone.org, so we can assist you.
