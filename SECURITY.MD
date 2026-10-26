@@ -2,7 +2,7 @@
 
 NEAR values the independent security research community and believes that responsible disclosure of security vulnerabilities helps us ensure the security and privacy of all our users.
 
-Please do NOT open a GitHub Issue to report a security vulnerability. If you believe you have found a security vulnerability, please submit a report via HackenProof, including a proof of concept and a suggested fix.
+**Please do NOT open a GitHub Issue to report a security vulnerability.** If you believe you have found a security vulnerability, please submit a report via HackenProof, including a proof of concept and a suggested fix.
 
 We ask that you do not use other channels or contact project contributors directly.
 
